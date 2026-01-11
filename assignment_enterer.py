@@ -1,5 +1,5 @@
 """
-Assignment_enterer puts assignments from my canvas courses into my notion to-do list! It might be poorly optimized but it's better than entering hundreds of assignments manually.
+assignment_enterer puts assignments from your canvas courses into your notion to-do list! It might be poorly optimized but it's better than entering hundreds of assignments manually.
 """
 
 import os
