@@ -1,0 +1,4 @@
+canvasapi==3.4.0
+notion-client==2.7.0
+python-dotenv==1.2.1
+requests==2.32.5
